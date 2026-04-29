@@ -1,5 +1,5 @@
-Region,Cheese,Carcass_meat,Other_meat,Fish,Fats_and_oils,Sugars,Fresh_potatoes,Fresh_Veg,Other_Veg,Processed_potatoes,Processed_Veg,Fresh_fruit,Cereals,Beverages,Soft_drinks
-England,105,245,685,147,193,156,720,253,488,198,360,1102,1472,57,1374
-Wales,103,227,803,160,235,175,874,265,570,203,365,1137,1582,73,1256
-Scotland,103,242,750,122,184,147,566,171,418,220,337,957,1462,53,1572
-N.Ireland,66,267,586,93,209,139,1033,143,355,187,334,674,1494,47,1506
+Regions,Alcoholic_drinks,Beverages,Carcass_meat,Cereals,Cheese,Confectionery,Fats_and_oils,Fish,Fresh_fruit,Fresh_potatoes,Fresh_vegetables,Other_meat,Other_vegetables,Processed_potatoes,Processed_vegetables,Soft_drinks,Sugars
+England,375,57,245,1472,105,54,193,147,1102,720,253,685,488,198,360,1374,156
+Wales,475,73,227,1582,103,64,235,160,1137,874,265,803,570,203,365,1256,175
+Scotland,458,53,242,1462,103,62,184,122,957,566,171,750,418,220,337,1572,147
+N.Ireland,135,47,267,1494,66,41,209,93,674,1033,143,586,355,187,334,1506,139
